@@ -1,0 +1,130 @@
+.push-left, img {
+	float:left;
+	text-decoration: none;
+  padding: 210px 0px 0px 10px;
+	width:21%;
+}
+.push-right, a {
+	float:right;
+	text-decoration: none;
+	padding:10px 10px;
+}
+canvas {
+  
+
+@media (min-width: 550px)
+skeleton.css:76
+.one-half.column {
+    width: 26%;
+}
+}
+.logo {
+	float: left;
+    width: 25%;
+    text-decoration: none;
+    padding: 30px 0px 0px 10px;
+    width: 7%;
+}
+.feature-banner-content {
+  color:#AAAAAA;
+}
+.dg.ac {
+  z-index: 999!important;
+}
+.world {
+	width:62%;
+  margin-bottom: 115px;
+}
+img.blake-team {
+    text-decoration: none;
+    padding: 210px 0px 0px 10px;
+    width: 21%;
+}
+.dg.ac {
+  z-index: 999!important;
+}
+.vision-head {
+  font-size:70px;
+}
+.vision-copy {
+  color:#AAAAAA;
+}
+.push-right {
+	float:right;
+}
+.intro-split-pane {
+	margin: 0 auto;
+}
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box; }
+
+  .container-mid {
+  position: relative;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box; }
+
+  .feature-text {
+    padding:375px 0px 0px 0px;
+  }
+  
+  .container-full {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box; }
+  .pane {
+  	    padding: 255px;
+  	    text-align:center;
+  }
+  .left-pane {
+  	background:#FF3500;
+    text-align:center;
+    padding:270px;
+  }
+  .right-pane {
+  	background:#154DB9;
+    text-align:center;
+    padding: 140px;
+  }
+  .row {
+  	padding:30px;
+  }
+  .ico {
+  	color:#AAAAAA;
+  }
+  .whitepaper {
+  	color:#AAAAAA;
+  }
+  .a {
+  	color: #FFA000;
+  }
+  .d {
+  	color: #FF3500;
+  }
+  .p {
+  	color: #154DB9;
+  }
+  .t {
+  	color: #1A0D7D;
+  }
+  .adpt{
+  	text-align:center;
+  	background-image: url("../img//feature-background.png") !important;
+  	background-size:contain;
+  	width:100%;
+  	padding:350px;
+  }
+  .team {
+  	position:absolute;
+  	bottom:0;
+  }

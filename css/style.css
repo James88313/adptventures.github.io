@@ -9,8 +9,15 @@
 	text-decoration: none;
 	padding:10px 10px;
 }
+.below-landing {
+	padding-top: 700px !important;
+	height:1200px;
+}
+.below-landing-content {
+	padding-top:200px;
+}
 canvas {
-  
+
 
 @media (min-width: 550px)
 skeleton.css:76
@@ -74,7 +81,7 @@ img.blake-team {
   .feature-text {
     padding:375px 0px 0px 0px;
   }
-  
+
   .container-full {
   position: relative;
   width: 100%;
